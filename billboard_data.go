@@ -3,7 +3,7 @@ package douyingo
 import (
 	"context"
 
-	"github.com/zhangshuai/douyin-go/conf"
+	"github.com/jianjunlu/douyin-go/conf"
 )
 
 // DataExternalBillboardReq 榜单数据请求
